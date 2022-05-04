@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael-ola
-- 👀 I’m interested in Software Development/Engineering, REACT, NodeJS, Django
-- 🌱 I’m currently learning REACT, NodeJS, Django
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development/Engineering, REACT and NodeJS
+- 🌱 I build elegant and highly performant softwares with REACT and NodeJS
+- 💞️ I’m looking to collaborate on building Elegant User Interfaces with REACT.JS 
 - 📫 How to reach me Email: michael303.mi@gmail.com
   linkedIn: www.linkedin.com/in/michael-ibitoye-ola
 
